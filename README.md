@@ -4,7 +4,7 @@
 
 这是一个用于压缩CSS、JavaScript和HTML代码的uTools插件，可以有效减少代码体积，去除不必要的空格、换行和注释。
 
-![](./public/image.png)
+<img width="1307" height="1081" alt="frame_generic_dark" src="https://github.com/user-attachments/assets/1e6b17fe-7034-472e-9599-211edfc713be" />
 
 ## 功能特点
 
